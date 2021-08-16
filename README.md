@@ -32,4 +32,4 @@ To see the result, after running each `tcl` file you can run different `python` 
 * Dropped
 * CWND
 
-*By Amirhossein Abaskohi And Arash Rasouli*
+*Readme made By Amirhossein Abaskohi And Arash Rasouli*
